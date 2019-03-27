@@ -1,0 +1,17 @@
+
+.PhoneInputShimmer {
+  display: flex;
+  margin-bottom: 36px;
+}
+
+.PhoneInputShimmer-prefix {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.PhoneInputShimmer-number {
+  display: flex;
+  flex: 1 100%;
+  flex-direction: column;
+}

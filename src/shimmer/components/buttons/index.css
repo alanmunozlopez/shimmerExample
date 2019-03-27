@@ -1,0 +1,10 @@
+
+.ButtonsShimmer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 36px;
+}
+
+.ButtonsShimmer-space {
+  width: 63px;
+}
