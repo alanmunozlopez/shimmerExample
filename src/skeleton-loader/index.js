@@ -14,12 +14,6 @@ const SkeletonLoader = () => (
       <TitleShimmer />
       <InputShimmer />
       <InputShimmer />
-      <InputShimmer />
-    </div>
-    <div className='SkeletonLoader-card'>
-      <TitleShimmer />
-      <InputShimmer />
-      <InputShimmer />
       <PhoneInputShimmer />
     </div>
     <div className='SkeletonLoader-out-of-card'>

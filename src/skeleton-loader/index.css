@@ -1,13 +1,14 @@
 
 .SkeletonLoader {
   margin: 0 auto;
-  padding: 0 16px;
+  /* padding: 0 16px; */
 }
 
 .SkeletonLoader-card {
   margin: 0 auto;
-  width: calc(100% - 32px);
-  max-width: 305px;
+  /* width: calc(100% - 32px); */
+  /* width: 100%; */
+  max-width: 473px;
   border: 2px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
   background-color: rgba(255, 255, 255, 0.6);
@@ -18,5 +19,5 @@
 .SkeletonLoader-out-of-card {
   margin: 0 auto;
   width: calc(100% - 16px);
-  max-width: 369px;
+  max-width: 473px;
 }
