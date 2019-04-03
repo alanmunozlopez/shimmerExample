@@ -1,10 +1,10 @@
 
-.App {
+.SkeletonLoader {
   margin: 0 auto;
   padding: 0 16px;
 }
 
-.App-card {
+.SkeletonLoader-card {
   margin: 0 auto;
   width: calc(100% - 32px);
   max-width: 305px;
@@ -15,7 +15,7 @@
   padding: 16px;
 }
 
-.App-out-of-card {
+.SkeletonLoader-out-of-card {
   margin: 0 auto;
   width: calc(100% - 16px);
   max-width: 369px;

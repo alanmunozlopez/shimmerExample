@@ -2,7 +2,7 @@ import React from 'react';
 
 import './index.css';
 
-import ShimmerComponent from '../../../shimmer';
+import ShimmerComponent from '../../shimmer';
 
 const PhoneInputShimmer = () => (
   <div className='PhoneInputShimmer'>
