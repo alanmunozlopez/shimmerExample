@@ -1,13 +1,10 @@
 
 .SkeletonLoader {
   margin: 0 auto;
-  /* padding: 0 16px; */
 }
 
 .SkeletonLoader-card {
   margin: 0 auto;
-  /* width: calc(100% - 32px); */
-  /* width: 100%; */
   max-width: 473px;
   border: 2px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
